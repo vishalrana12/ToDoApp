@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">To Do</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_to_do">To Do</string>
+    <string name="_enter_your_email">Type your Email</string>
+    <string name="_enter_password">Type Password</string>
+    <string name="_retype_your_password">Retype password</string>
+    <string name="_continue">continue</string>
+    <string name="_already_have_an_account">Already have an account!!</string>
+    <string name="_not_registered_yet">Not Registered yet!!</string>
+    <string name="_sign_in">Sign In.</string>
+    <string name="_sign_up">Sign Up.</string>
 </resources>
